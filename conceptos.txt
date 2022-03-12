@@ -1,0 +1,11 @@
+CDN...content delivery network
+
+
+libreria:
+javascript...
+-----------jquery
+-----------React
+
+
+
+css....bootstrap
